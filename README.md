@@ -70,7 +70,7 @@ plt.show()
    ```
 2. Run the Python script:
    ```sh
-   python titanic_analysis.py
+   python Task2.py
 ---
 **Happy Analyzing! 🚀📊**
 
