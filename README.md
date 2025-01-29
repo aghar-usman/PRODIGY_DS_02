@@ -71,11 +71,6 @@ plt.show()
 2. Run the Python script:
    ```sh
    python titanic_analysis.py
-   ```
-
-## 📜 License
-This project is open-source and available under the **MIT License**. ✨
-
 ---
 **Happy Analyzing! 🚀📊**
 
